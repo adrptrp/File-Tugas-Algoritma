@@ -1,4 +1,4 @@
-package record;
+package Record;
 
 public class DeklarasiPenulisan {
     public static void main(String[] args) {
